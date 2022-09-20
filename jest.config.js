@@ -1,4 +1,4 @@
 module.exports = {
-    preset: "jest-puppeteer-docker",
+    preset: "jest-puppeteer",
     verbose: true
 };
