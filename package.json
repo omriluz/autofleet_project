@@ -1,0 +1,17 @@
+{
+  "name": "aftest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "jest-puppeteer": "^6.1.1",
+    "puppeteer": "^17.1.3"
+  }
+}
